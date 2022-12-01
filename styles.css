@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+#headline {
+    text-align: center;
+    font-size: larger;
+    font-weight: 1000;
+    font-size: 25px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#tribute-info {
+    justify-content: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 55px auto;
+    text-align: left;
+    line-height: 1.8;
+}
+
+li{
+    margin: 16px 0;
+}
+
+#cajaPrincipal {
+    background-color: rgb(230, 230, 230);
+    border: hidden;
+    border-radius: 10px;
+    padding-top: auto;
+}
+
+#cajaDeImagen {
+    background-color: white;
+    border: hidden;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+#parrafoFooter {
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+#parrafoEditor {
+    text-align: right;
+}
+
+#parrafoMencion {
+    text-align: right;
+}
